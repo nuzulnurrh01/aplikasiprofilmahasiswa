@@ -14,7 +14,7 @@ Aplikasi sederhana untuk menampilkan profil mahasiswa menggunakan Flutter.
 2. Jalankan aplikasi menggunakan Android Studio.
 
 bash
-git clone https://github.com/username/flutter-profil-mahasiswa.git
+git clone https://github.com/nuzulnurrh01/aplikasiprofilmahasiswa
 
 Upload APK 
 Jika kamu ingin mengupload APK hasil build:
