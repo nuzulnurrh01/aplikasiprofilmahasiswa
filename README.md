@@ -1,5 +1,4 @@
 # aplikasiprofilmahasiswa
-# Aplikasi Profil Mahasiswa dengan Flutter
 
 Aplikasi sederhana untuk menampilkan profil mahasiswa menggunakan Flutter.
 
@@ -16,3 +15,13 @@ Aplikasi sederhana untuk menampilkan profil mahasiswa menggunakan Flutter.
 
 ```bash
 git clone https://github.com/username/flutter-profil-mahasiswa.git
+
+### 📦 **Langkah 8: Upload APK (Opsional)**
+Jika kamu ingin mengupload APK hasil build:
+1. **Buat folder `apk/`** di dalam repositori kamu.
+2. Upload file APK ke dalam folder tersebut.
+3. Commit dan push perubahan tersebut:
+   ```bash
+   git add apk/
+   git commit -m "Upload APK build"
+   git push origin master
